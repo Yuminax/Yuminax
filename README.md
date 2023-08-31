@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Dorian Tan
 
+**Bachelor IT engineering**
+
+- 📫 How to reach me: doriantan7@gmail.com
+- 🎮 Check my games : https://doriantan.itch.io/
 <!--
 **Yuminax/Yuminax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
