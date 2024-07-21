@@ -6,7 +6,8 @@
 - 📫 How to reach me: doriantan7@gmail.com
 - 🎮 Check my games : https://doriantan.itch.io/
 - 🔭 I’m currently working on an interactive experience for https://bencounters.com/
-- 📎 My CV : [CV_Tan.pdf](https://github.com/Yuminax/Yuminax/files/13830479/CV_Tan.pdf)
+- 📎 My CV : [CV_Tan_EN.pdf](https://github.com/user-attachments/files/16324883/CV_Tan_EN.pdf)
+
 
 
 <!--
