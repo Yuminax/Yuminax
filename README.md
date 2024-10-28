@@ -5,7 +5,7 @@
 - 🔥 Main project : **Firefighter_AR** --> https://github.com/Yuminax/Firefighter_AR
 - 📫 How to reach me: doriantan7@gmail.com
 - 🎮 Check my games : https://doriantan.itch.io/
-- 🔭 I’m currently working on an interactive experience for https://bencounters.com/
+- 🔭 I’m currently working for https://www.udimu.com/
 - 📎 My CV : [CV_Tan_EN.pdf](https://github.com/user-attachments/files/16324883/CV_Tan_EN.pdf)
 
 
