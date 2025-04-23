@@ -2,7 +2,8 @@
 
 **Bachelor IT engineering**
 
-- 🔥 Main project : **Firefighter_AR** --> https://github.com/Yuminax/Firefighter_AR
+- 🔥 Bachelor project : **Firefighter_AR** --> https://github.com/Yuminax/Firefighter_AR
+- ⚡ Notable project, winner of "The Polys - Immersive Awards 2024" : https://www.youtube.com/watch?v=dM0BTAGUA2w&
 - 📫 How to reach me: doriantan7@gmail.com
 - 🎮 Check my games : https://doriantan.itch.io/
 - 🔭 I’m currently working for https://www.udimu.com/
